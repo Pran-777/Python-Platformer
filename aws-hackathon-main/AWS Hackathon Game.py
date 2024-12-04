@@ -12,7 +12,8 @@ pygame.display.set_caption("Platformer")
 
 BG_COLOR = (0, 255, 255)
 WIDTH, HEIGHT = 800, 600
-FPS = 60
+FPS = 144
+
 PLAYER_VEL = 5
 
 window = pygame.display.set_mode((WIDTH, HEIGHT))
